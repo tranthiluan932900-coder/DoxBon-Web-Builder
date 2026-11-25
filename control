@@ -1,0 +1,9 @@
+Package: com.doxbon.vdstool
+Name: DoxBon VDS Tool
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Description: DoxBon Video Star helper tweak
+Maintainer: DoxBon
+Author: DoxBon
+Section: Tweaks
+Depends: mobilesubstrate
